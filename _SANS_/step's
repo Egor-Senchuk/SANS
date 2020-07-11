@@ -1,0 +1,29 @@
+1.lexer
+2.tokenize
+3.parser 
+4.interpretator 
+
+#1.input path file {
+#2.lexer {
+# 2.1 Regular expression operations
+# 2.2 tokens
+#  }
+}
+
+#3.tokens
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
